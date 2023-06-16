@@ -4,7 +4,7 @@ Different scenarios are explored, but focus is placed on assigning ordinary diff
 Each box corresponds to a set of ODE's and the wires between them determine how they communicate.
 
 ## :star2: Production release
-See [AlgebraicContracts.jl](https://github.com/bakirtzisg/AlgebraicContracts.jl) to download the Julia Package. Massive thanks for Georgios Bakirtzis and Cody Fleming for helping me on this project.
+See [AlgebraicContracts.jl](https://github.com/bakirtzisg/AlgebraicContracts.jl) to download the Julia Package. Massive thanks to Georgios Bakirtzis and Cody Fleming for helping on this project.
 
 ## :scroll: Papers
 This is work is motivated by the following papers:
