@@ -1,15 +1,18 @@
-# About
+# :question: About 
 This repo contains Julia notebooks that convert box diagrams into executable functions.
 Different scenarios are explored, but focus is placed on assigning ordinary differential equations to the boxes. 
 Each box corresponds to a set of ODE's and the wires between them determine how they communicate.
 
-# Papers
+## :scroll: Papers
 This is work is motivated by the following papers:
 
-Georgios Bakirtzis, Cody H. Fleming, and Christina Vasilakopoulou, ["Compositional Cyber-Physical Systems Modeling"](https://arxiv.org/abs/2101.10484)  
-Georgios Bakirtzis, Cody H. Fleming, and Christina Vasilakopoulou, ["Categorical Semantics of Cyber-Physical Systems Theory"](https://arxiv.org/abs/2010.08003)
+1. _Georgios Bakirtzis, Cody H. Fleming, and Christina Vasilakopoulou_  
+["Compositional Cyber-Physical Systems Modeling"](https://arxiv.org/abs/2101.10484)   
 
-# Requirements
+2. _Georgios Bakirtzis, Cody H. Fleming, and Christina Vasilakopoulou_  
+["Categorical Semantics of Cyber-Physical Systems Theory"](https://arxiv.org/abs/2010.08003)
+
+## :bomb: Requirements
 To run the notebooks you will require the following packages:
 - [Catlab](https://juliapackages.com/p/catlab)
 - [AlgebraicDynamics](https://juliapackages.com/packages/algebraicdynamics)
@@ -22,7 +25,7 @@ You will also need to install graphviz:
 See "requirement.txt" for the nessesary versions along with the version of Julia used to write the notebooks. 
 Other versions will work but the given versions are sure to compile. 
 
-# Installation
+## :dvd: Installation
 Open REPL and press ] so the console shows pkg> then type:  
 
 ```
